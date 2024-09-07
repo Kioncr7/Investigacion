@@ -1,0 +1,11 @@
+¿Qué hace el proyecto, en general?
+es una especie de juego que donde se trata de agilidad de traducir del ingles al español en el menor tiempo posible y existe un modo para agruegar mas palabras.
+
+¿Qué variables se utilizan en el proyecto y por qué?
+una variable para el modo de juego, una variable para almacenar las palabras en ingles y en español, una variable para el puntaje y una variable para el tiempo.
+
+¿Qué tipo de bucle se utiliza en este programa y por qué?
+El bucle while para darle mas dinamismo y que este sea un programa infinito hasta que exista error.
+y el bucle for i in range que da un bucle contable y finito.
+
+ 
